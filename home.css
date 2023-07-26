@@ -1,0 +1,11 @@
+.carousel-inner{
+     height: 500px;
+     
+}
+
+.carousel-item, img{
+    height: 100% !important;
+    width:  100% !important;
+    color: blue;
+    /* border: 1px solid red; */
+}
